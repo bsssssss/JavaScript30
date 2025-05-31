@@ -29,7 +29,7 @@ console.table(comments);
 // Array.prototype.find()
 // Find is like filter, but instead returns just the one you are looking for
 // find the comment with the ID of 823423
-const id = comments.find(c => c.id == 823423);
+const id = comments.find(c => c.id === 823423);
 console.log(`ID 823423`)
 console.table(id);
 
