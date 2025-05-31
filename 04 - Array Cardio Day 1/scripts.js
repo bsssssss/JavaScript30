@@ -67,6 +67,8 @@ console.table(sortedLifeSpans);
 // 6. create a list of Boulevards in Paris that contain 'de' anywhere in the name
 // https://en.wikipedia.org/wiki/Category:Boulevards_in_Paris
 
+// Need to be copied in console of wiki page
+//
 // const category = document.querySelector(".mw-category");
 // const links = Array.from(category.querySelectorAll("a"));
 // const boulevardsDe = links
